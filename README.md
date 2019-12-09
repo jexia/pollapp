@@ -1,6 +1,17 @@
-# Poll app.
-Example application: Poll app is a Survey/Voting/Polling application which contains a JS web widget and an Admin Panel for managing Polls. 
-For every created poll, it will generate widget JS snipped that you can add to the website.
+# Polling/voting system.
+This Poll example appliction allows you to ask your site visitors an unlimited number of questions, from an 
+unlimited number of respondents. You add the web widget snippet in your website and your site is ready to go.
+
+To create your polls you get an admin panel to mannage all your Polls. Every created Poll will generate automaticly 
+a widget snippet code which you can put in a website. 
+
+## How to achieve using Jexia
+Create a project in your Jexia account. 
+Create a dataset with or without fields with name Polling, then create API key and create a policy.
+
+## Implementation
+This app is built using Vue.js, Vuex and Vuetify technologies as well as Jexia JavaScript SDK.
+Made with Jexia features:
 
 ## Features
  - Admin panel for polls management and reports
