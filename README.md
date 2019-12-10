@@ -5,6 +5,8 @@ unlimited number of respondents. You add the web widget snippet in your website 
 To create your polls you get an admin panel to mannage all your Polls. Every created Poll will generate automaticly 
 a widget snippet code which you can put in a website. 
 
+[Live Demo](https://88fccaba-a957-4aa4-a455-dbd9325a42c4.jexia.app/admin)
+
 ## How to achieve using Jexia
 Create a project in your Jexia account. 
 Create a dataset with or without fields with name Polling, then create API key and create a policy.
