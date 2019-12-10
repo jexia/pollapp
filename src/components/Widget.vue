@@ -5,7 +5,7 @@
             <code>
                 &lt;div id="pollapp_widget"&gt;&lt;/div&gt;
                 &lt;script&gt;s_p_w_poll_uuid="{{ poll.id }}"&lt;/script&gt;
-                &lt;script src="http://13fdb418-0318-4c0c-b344-7780db36f2ba.jexia.app/index.js"&gt;&lt;/script&gt;
+                &lt;script src="http://88fccaba-a957-4aa4-a455-dbd9325a42c4.jexia.app/index.js"&gt;&lt;/script&gt;
             </code>
         </div>
         <router-link tag="button" :to="{ name: 'results', params: { id: poll.id }}">Check the results</router-link>
