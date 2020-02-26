@@ -1,3 +1,5 @@
+
+[![Runme](https://runme.io/static/button.svg)](https://runme.io/runme?repo_url=https://github.com/jexia/pollapp.git&repo_branch=master)
 # Polling/voting system.
 This Poll example appliction allows you to ask your site visitors an unlimited number of questions, from an 
 unlimited number of respondents. You add the web widget snippet in your website and your site is ready to go.
